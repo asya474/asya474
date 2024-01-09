@@ -40,7 +40,20 @@
   <!-- <code><img width="5%" title="Xmind" src="images/logo_stacks/xmind.png"></code> -->
 </p>
 
-## :floppy_disk: Проекты для ознакомления
+### My Skills:
+
+- [Autotests] Requests + Pytest + Python
+- [Autotests] Selenium + Python
+- [Autotests] Allure report + Allure TestOps
+- [WEB] Devtools
+- [WEB] Figma
+- [API] Postman
+- [API] REST API
+- [LOGS] Kibana
+- [DB] PostgreSQL, MySQL, Mongo, Redis
+
+  
+## :floppy_disk: Example of my project
 ### <img width="3%" src="images/github.png"> [Проект с UI, API, Mobile тестами](https://github.com/catislove/diploma_project)
 
 #### Git stats
