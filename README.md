@@ -1,4 +1,4 @@
-### Hi there, I'm Automation QA Engineer Asya 👋
+### Hi there, I'm Automation AQA Engineer Asya 👋
 
 
 - 🌱 I’m  **AQA Python**
