@@ -1,7 +1,7 @@
 ### Hi there, I'm Automation QA Engineer Asya 👋
 
 
-- 🌱 I’m  **QA Automation on Python**
+- 🌱 I’m  **AQA Python**
 - 🔭 I've been working as QA Engineer since 2020
 - 💬 Reach me at asya474@gmail.com
 - 📫 Contacts:
