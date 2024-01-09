@@ -40,5 +40,10 @@
   <!-- <code><img width="5%" title="Xmind" src="images/logo_stacks/xmind.png"></code> -->
 </p>
 
+## :floppy_disk: Проекты для ознакомления
+### <img width="3%" src="images/github.png"> [Проект с UI тестами](https://github.com/catislove/diploma_project)
+
 #### Git stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asya474&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asya&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asya&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asya&theme=tokyonight)
