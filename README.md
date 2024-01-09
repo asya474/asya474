@@ -57,6 +57,6 @@
 ### <img width="3%" src="images/github.png"> [Проект с UI, API, Mobile тестами](https://github.com/catislove/diploma_project)
 
 #### Git stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asya&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asya&theme=tokyonight) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asya&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asya474&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asya474&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asya474&theme=tokyonight)
