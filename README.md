@@ -41,7 +41,7 @@
 </p>
 
 ## :floppy_disk: Проекты для ознакомления
-### <img width="3%" src="images/github.png"> [Проект с UI тестами](https://github.com/catislove/diploma_project)
+### <img width="3%" src="images/github.png"> [Проект с UI, API, Mobile тестами](https://github.com/catislove/diploma_project)
 
 #### Git stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asya&theme=tokyonight)
