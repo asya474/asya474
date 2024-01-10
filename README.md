@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=asya474&style=flat-square&color=blue" alt="Github Badge"/>
-<div id="header" align="center">
+
 ### Hi there, I'm Automation AQA Engineer Asya 👋
 
 
@@ -44,19 +42,15 @@
   <!-- <code><img width="5%" title="Xmind" src="images/logo_stacks/xmind.png"></code> -->
 </p>
 
-### My Skills:
+## ABOUT ME
+I am a Full Stack Quality Assurance Engineer  (Auto / Manual) with 4 years of commercial experience in all types of manual testing: web, mobile platforms (iOS / Android), API and database. 
+Strong skills in establishing QA processes, experience building and leading manual QA teams, reporting progress and results to stakeholders. Highly detailed-oriented and hard-working engineer with great problem-solving skills
 
-- [Autotests] Requests + Pytest + Python
-- [Autotests] Selenium + Python
-- [Autotests] Allure report + Allure TestOps
-- [WEB] Devtools
-- [WEB] Figma
-- [API] Postman
-- [API] REST API
-- [LOGS] Kibana
-- [DB] PostgreSQL, MySQL, Mongo, Redis
+## SKILLS
+- **Languages**: English (B2), Russian (native)
+- **Programming languages and Tools**: Python, Pytest, Requests, Selenium, Selene,  Appium, PostreSQL, MySQL, Mongo, Redis, Allure, Docker, Gitlab, Jenkins, Postman, Charles Proxy, Fiddler, DevTools, Kibana, Jira, TestRail, Allure TestOps, Figma
+- **Technical skills**: Software Quality Assurance, Quality Control, Test Automation, Scripting, Test Planning,  Regression Testing, Test Cases, Agile Methodologies, Compliance, Documentation, Innovation, Collaboration, Customer Service, Communication Skills
 
-  
 ## :floppy_disk: Example of my project
 ### <img width="3%" src="images/github.png"> [Проект с UI, API, Mobile тестами](https://github.com/catislove/diploma_project)
 
@@ -64,3 +58,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asya474&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asya474&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asya474&theme=tokyonight)
+
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=asya474&style=flat-square&color=blue" alt="Github Badge"/>
+<div id="header" align="center">
