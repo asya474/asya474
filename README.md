@@ -52,7 +52,7 @@ Strong skills in establishing QA processes, experience building and leading manu
 - **Technical skills**: Software Quality Assurance, Quality Control, Test Automation, Scripting, Test Planning,  Regression Testing, Test Cases, Agile Methodologies, Compliance, Documentation, Innovation, Collaboration, Customer Service, Communication Skills
 
 ## :floppy_disk: Example of my project
-### <img width="3%" src="images/github.png"> [Проект с UI, API, Mobile тестами]([https://github.com/asya474/diploma_project])
+### <img width="3%" src="images/github.png"> [Проект с UI, API, Mobile тестами](https://github.com/asya474/diploma_project)
 
 #### Git stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asya474&theme=tokyonight)
