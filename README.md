@@ -8,8 +8,6 @@
 - 💬 Reach me at asya474@gmail.com
 - 📫 Contacts:
 
-![Metrics](https://metrics.lecoq.io/asya474)
-
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://t.me/asya474"><img width="35px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
@@ -64,3 +62,4 @@ Strong skills in establishing QA processes, experience building and leading manu
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=asya474&style=flat-square&color=blue" alt="Github Badge"/>
 <div id="header" align="center">
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
