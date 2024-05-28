@@ -62,4 +62,4 @@ Strong skills in establishing QA processes, experience building and leading manu
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=asya474&style=flat-square&color=blue" alt="Github Badge"/>
 <div id="header" align="center">
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="800"></p>
