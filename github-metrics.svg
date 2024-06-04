@@ -2037,7 +2037,7 @@ add service</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.98m out of 134m users</span>
+                                    <span class="gh">ranked 4.98m out of 138m users</span>
                                 </div>
                                 <div class="text">Published 13 public repositories</div>
                             </div>
@@ -2187,7 +2187,7 @@ add service</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2024, 03:20:07 (timezone Asia/Novosibirsk) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2024, 04:18:20 (timezone Asia/Novosibirsk) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
