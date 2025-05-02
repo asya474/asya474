@@ -62,4 +62,3 @@ Strong skills in establishing QA processes, experience building and leading manu
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=asya474&style=flat-square&color=blue" alt="Github Badge"/>
 <div id="header" align="center">
-![Metrics](https://metrics.lecoq.io/asya474?template=classic&base.hireable=true&leetcode=1&notable=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&projects=false&projects.limit=4&projects.descriptions=false&leetcode=false&leetcode.user=asya474&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FNovosibirsk&config.octicon=true)
