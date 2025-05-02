@@ -17,6 +17,8 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -28,40 +30,9 @@ jobs:
           user: asya474
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          config_octicon: yes
           config_timezone: Asia/Novosibirsk
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
@@ -70,7 +41,5 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_projects: yes
+          plugin_projects_limit: 4
