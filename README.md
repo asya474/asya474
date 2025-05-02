@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
 
-### Hi there, I'm Automation AQA Engineer Asya 👋
+### Hi there, I'm AQA Engineer Asya 👋
 
 
 - 🌱 I’m  **AQA Python**
@@ -43,7 +43,7 @@
 </p>
 
 ## ABOUT ME
-I am a Full Stack Quality Assurance Engineer  (Auto / Manual) with 4 years of commercial experience in all types of manual testing: web, mobile platforms (iOS / Android), API and database. 
+I am a Full Stack Quality Assurance Engineer  (Auto / Manual) with 5 years of commercial experience in all types of manual testing: web, mobile platforms (iOS / Android), API and database. 
 Strong skills in establishing QA processes, experience building and leading manual QA teams, reporting progress and results to stakeholders. Highly detailed-oriented and hard-working engineer with great problem-solving skills
 
 ## SKILLS
@@ -62,4 +62,3 @@ Strong skills in establishing QA processes, experience building and leading manu
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=asya474&style=flat-square&color=blue" alt="Github Badge"/>
 <div id="header" align="center">
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="800"></p>
