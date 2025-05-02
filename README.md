@@ -2,7 +2,6 @@
 
 ### Hi there, I'm AQA Engineer Asya 👋
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 - 🌱 I’m  **AQA Python**
 - 🔭 I've been working as QA Engineer since 2020
 - 💬 Reach me at asya474@gmail.com
