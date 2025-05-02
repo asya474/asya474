@@ -58,7 +58,7 @@ Strong skills in establishing QA processes, experience building and leading manu
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asya474&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asya474&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asya474&theme=tokyonight)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/asya474)
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=asya474&style=flat-square&color=blue" alt="Github Badge"/>
 <div id="header" align="center">
